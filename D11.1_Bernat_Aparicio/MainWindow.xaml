@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="792" Background="#FF596157" Margin="0,44,0,0"/>
+        <Label Content="Expedient alumne:" HorizontalAlignment="Left" Height="27" Margin="19,91,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Nombre Alumne" HorizontalAlignment="Left" Height="27" Margin="136,121,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Apellido1 Alumne" HorizontalAlignment="Left" Height="27" Margin="136,148,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Apellido2 Alumne" HorizontalAlignment="Left" Height="27" Margin="136,175,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Telefon Alumne" HorizontalAlignment="Left" Height="27" Margin="298,121,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="Direccio Alumne" HorizontalAlignment="Left" Height="27" Margin="298,148,0,0" VerticalAlignment="Top" Width="113"/>
+
     </Grid>
 </Window>
