@@ -5,15 +5,113 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:D11._1_Bernat_Aparicio"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="940" Width="1080">
     <Grid>
-        <Label HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="792" Background="#FF596157" Margin="0,44,0,0"/>
-        <Label Content="Expedient alumne:" HorizontalAlignment="Left" Height="27" Margin="19,91,0,0" VerticalAlignment="Top" Width="113"/>
-        <Label Content="Nombre Alumne" HorizontalAlignment="Left" Height="27" Margin="136,121,0,0" VerticalAlignment="Top" Width="113"/>
-        <Label Content="Apellido1 Alumne" HorizontalAlignment="Left" Height="27" Margin="136,148,0,0" VerticalAlignment="Top" Width="113"/>
-        <Label Content="Apellido2 Alumne" HorizontalAlignment="Left" Height="27" Margin="136,175,0,0" VerticalAlignment="Top" Width="113"/>
-        <Label Content="Telefon Alumne" HorizontalAlignment="Left" Height="27" Margin="298,121,0,0" VerticalAlignment="Top" Width="113"/>
-        <Label Content="Direccio Alumne" HorizontalAlignment="Left" Height="27" Margin="298,148,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="1072" Background="#FF596157" Margin="0,84,0,0"/>
+        <Label Content="Expedient alumne:" HorizontalAlignment="Left" Height="58" Margin="8,172,0,0" VerticalAlignment="Top" Width="191"/>
+        <Label Content="Nombre Alumne" HorizontalAlignment="Left" Height="58" Margin="206,237,0,0" VerticalAlignment="Top" Width="192" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Apellido1 Alumne" HorizontalAlignment="Left" Height="58" Margin="206,295,0,0" VerticalAlignment="Top" Width="192" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Apellido2 Alumne" HorizontalAlignment="Left" Height="58" Margin="206,353,0,0" VerticalAlignment="Top" Width="192" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Telefon Alumne" HorizontalAlignment="Left" Height="58" Margin="655,237,0,0" VerticalAlignment="Top" Width="192" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Direccio Alumne" HorizontalAlignment="Left" Height="58" Margin="655,295,0,0" VerticalAlignment="Top" Width="192" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Image HorizontalAlignment="Left" Height="215" Margin="8,241,0,0" VerticalAlignment="Top" Width="169" Source="marmota-efe-kQ0C-U12096505558ZrB-1248x770@RC.jpg"/>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="398,305,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="203" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="398,234,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="203" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="49" Margin="398,366,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="203" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="847,245,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="203" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="50" Margin="847,303,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="203" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Image HorizontalAlignment="Left" Height="69" Margin="878,10,0,0" VerticalAlignment="Top" Width="184" Source="logocide2x.png"/>
+        <Label HorizontalAlignment="Left" Height="5" VerticalAlignment="Top" Width="1072" Background="#FF596157"/>
 
     </Grid>
 </Window>

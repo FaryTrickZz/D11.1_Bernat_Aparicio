@@ -94,5 +94,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="marmota-efe-kQ0C-U12096505558ZrB-1248x770%40RC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logocide2x.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
